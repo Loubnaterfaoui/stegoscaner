@@ -1,7 +1,8 @@
 streamlit
-joblib
 numpy
 opencv-python-headless
 tensorflow-cpu
 xgboost
 pandas
+scikit-learn
+Pillow
